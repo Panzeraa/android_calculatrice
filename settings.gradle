@@ -1,0 +1,3 @@
+include ':calculatrice'
+include ':app'
+rootProject.name = "TPAndroid"
